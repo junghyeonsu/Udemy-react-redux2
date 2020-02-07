@@ -6,3 +6,11 @@
 + weather api 사용하기
 + 미들웨어 라이브러리 react-promise에 대해서
 + react Ajax 라이브러리 Axios에 대해서
+
+### 2월 7일 공부 (video 64 ~ video 69)
+
++ react-Sparkline 사용해보기
++ google-map-react 사용해보기
++ 재활용가능한 컴포넌트 만들기 (chart,google_map)
+
+* * *
