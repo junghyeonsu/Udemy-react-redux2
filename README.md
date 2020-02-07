@@ -13,7 +13,7 @@
 + google-map-react 사용해보기
 + 재활용가능한 컴포넌트 만들기 (chart,google_map)
 
-* * *
+### 완성 스크린샷
 
 <div>
   <img src="https://user-images.githubusercontent.com/54893898/74004263-a2102a80-49b8-11ea-8995-580eb02a8b6e.png">
