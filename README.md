@@ -18,3 +18,10 @@
 <div>
   <img src="https://user-images.githubusercontent.com/54893898/74004263-a2102a80-49b8-11ea-8995-580eb02a8b6e.png">
  </div>
+
+
+### 2020 2월 8일 혼자 공부
+
++ redux 구조 파악하기 위해서 혼자 연습해보기
++ form으로 보낼때 action 생성한 다음 reducer로 보내서
+input창에 입력한 데이터를 list로 달기!
