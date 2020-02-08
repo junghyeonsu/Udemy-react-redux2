@@ -25,3 +25,8 @@
 + redux 구조 파악하기 위해서 혼자 연습해보기
 + form으로 보낼때 action 생성한 다음 reducer로 보내서
 input창에 입력한 데이터를 list로 달기!
+
+혼자 연습해본 스크린샷
+<div>
+  <img src="https://user-images.githubusercontent.com/54893898/74080520-25e51800-4a88-11ea-9dbc-3bd4c71ac68f.png">  
+</div>
